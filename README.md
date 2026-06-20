@@ -115,6 +115,37 @@ Hospital-Management-Data-Project
 
 ---
 
+
+## 📊 Dashboards
+
+### Executive Overview Dashboard
+- Total Revenue
+- Average Bill
+- Total Patients
+- Paid Revenue
+
+### Patient Insights Dashboard
+- Gender Distribution
+- Blood Group Distribution
+- Appointment Status Analysis
+
+### Financial Dashboard
+- Payment Status Distribution
+- Payment Method Distribution
+- Top Bills Analysis
+
+---
+
+## 🚀 Tools Used
+
+- Python
+- Pandas
+- SQL
+- SQLite
+- Excel
+- Power BI
+- DAX
+
 ## 🎯 Features
 - Generated realistic hospital datasets using Python.
 - Stored data in SQLite database.
@@ -127,4 +158,5 @@ Hospital-Management-Data-Project
 
 ## 📌 Author
 Sanskruti Kadam
+
 
