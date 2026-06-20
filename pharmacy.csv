@@ -1,0 +1,101 @@
+MedicineID,MedicineName,Category,StockQuantity,UnitPrice
+1,Azithromycin,Tablet,228,788
+2,Insulin,Syrup,304,645
+3,Crocin,Injection,223,384
+4,Amoxicillin,Syrup,261,158
+5,Metformin,Tablet,167,218
+6,Metformin,Injection,26,420
+7,Insulin,Injection,353,856
+8,Pantoprazole,Injection,74,382
+9,Crocin,Injection,316,870
+10,Pantoprazole,Tablet,251,485
+11,Metformin,Injection,109,26
+12,Insulin,Injection,192,162
+13,Metformin,Injection,296,107
+14,Azithromycin,Syrup,150,146
+15,Paracetamol,Injection,450,548
+16,Amoxicillin,Tablet,353,147
+17,Aspirin,Injection,346,672
+18,Azithromycin,Syrup,479,937
+19,Dolo 650,Tablet,92,641
+20,Cetirizine,Injection,343,288
+21,Crocin,Tablet,53,337
+22,Amoxicillin,Syrup,282,801
+23,Metformin,Injection,276,167
+24,Dolo 650,Syrup,393,568
+25,Paracetamol,Syrup,472,352
+26,Crocin,Injection,428,305
+27,Azithromycin,Tablet,37,606
+28,Insulin,Syrup,96,318
+29,Pantoprazole,Injection,396,389
+30,Dolo 650,Syrup,80,117
+31,Cetirizine,Tablet,241,407
+32,Paracetamol,Tablet,242,487
+33,Metformin,Syrup,304,90
+34,Crocin,Tablet,310,863
+35,Azithromycin,Injection,240,515
+36,Cetirizine,Tablet,78,596
+37,Insulin,Injection,38,637
+38,Azithromycin,Syrup,46,367
+39,Metformin,Tablet,266,629
+40,Insulin,Injection,480,569
+41,Insulin,Syrup,328,296
+42,Azithromycin,Tablet,279,851
+43,Crocin,Tablet,436,23
+44,Pantoprazole,Injection,240,639
+45,Insulin,Tablet,488,821
+46,Azithromycin,Injection,500,285
+47,Crocin,Tablet,154,430
+48,Cetirizine,Injection,70,526
+49,Paracetamol,Injection,491,185
+50,Paracetamol,Injection,160,721
+51,Crocin,Syrup,288,733
+52,Dolo 650,Tablet,386,83
+53,Pantoprazole,Tablet,407,534
+54,Crocin,Injection,319,336
+55,Dolo 650,Syrup,76,267
+56,Paracetamol,Syrup,266,871
+57,Cetirizine,Injection,29,165
+58,Metformin,Syrup,65,799
+59,Amoxicillin,Syrup,470,391
+60,Pantoprazole,Injection,156,792
+61,Pantoprazole,Syrup,419,591
+62,Aspirin,Injection,400,549
+63,Insulin,Tablet,301,175
+64,Crocin,Tablet,427,837
+65,Dolo 650,Injection,158,455
+66,Pantoprazole,Syrup,94,282
+67,Pantoprazole,Injection,118,366
+68,Crocin,Injection,220,494
+69,Dolo 650,Tablet,320,963
+70,Insulin,Tablet,47,623
+71,Azithromycin,Syrup,133,94
+72,Metformin,Syrup,21,893
+73,Crocin,Injection,158,20
+74,Paracetamol,Injection,324,231
+75,Azithromycin,Tablet,172,326
+76,Dolo 650,Syrup,352,976
+77,Crocin,Injection,240,64
+78,Crocin,Syrup,316,53
+79,Dolo 650,Tablet,463,400
+80,Dolo 650,Tablet,112,235
+81,Insulin,Tablet,286,624
+82,Cetirizine,Injection,453,75
+83,Insulin,Injection,274,225
+84,Cetirizine,Injection,338,751
+85,Pantoprazole,Tablet,305,956
+86,Aspirin,Tablet,303,546
+87,Pantoprazole,Tablet,273,585
+88,Pantoprazole,Syrup,330,965
+89,Pantoprazole,Tablet,285,540
+90,Paracetamol,Tablet,182,302
+91,Metformin,Injection,116,32
+92,Insulin,Syrup,170,677
+93,Dolo 650,Tablet,390,993
+94,Paracetamol,Tablet,334,781
+95,Crocin,Syrup,354,634
+96,Insulin,Syrup,249,383
+97,Cetirizine,Injection,332,302
+98,Paracetamol,Injection,467,242
+99,Crocin,Syrup,469,542
+100,Pantoprazole,Injection,125,626
